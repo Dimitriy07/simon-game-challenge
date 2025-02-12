@@ -26,7 +26,7 @@ The **Simon Game Challenge** is a web-based memory game where players must repli
 ## Installation & Setup 🏗️
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/simon-game.git
+   git clone (https://github.com/Dimitriy07/simon-game-challenge.git)
    ```
 2. Navigate to the project folder:
    ```bash
